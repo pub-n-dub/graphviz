@@ -1,2 +1,7 @@
-# graphviz
-Graph visualization software initiated by AT&amp;T Research in the early 1990s
+## graphviz
+
+A most excellent graph visualization software initiated by AT&amp;T Research in the early 1990s
+
+### Building
+
+See doc/build.html for prerequisites and detailed build notes.
