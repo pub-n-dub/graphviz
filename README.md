@@ -4,4 +4,4 @@ A most excellent graph visualization software initiated by AT&amp;T Research in 
 
 ### Building
 
-See doc/build.html for prerequisites and detailed build notes.
+[See](/doc/build.html) for prerequisites and detailed build notes.
